@@ -6,7 +6,18 @@ This project was developed during the "Advanced Programming" course, which I too
 
 I worked on this project with two friends from my degree program. The main idea of the project was to create a Clone of Facebook Android app and website that function similarly to the original Facebook.
 
-The project was originally made in four phases, and this repository unites the whole process and showcases the final result.
+The project was originally made in four phases, and this repository unites the whole process and showcases the final result. 
+You can see the original process of our work together in these repositories: 
+
+[Original Bloom-Filter & Tcp Server](https://github.com/orshmuel9/BloomFilter) 
+
+[Original Node js Server](https://github.com/orshmuel9/FacebookServer) 
+
+[Original Facebook Website](https://github.com/orshmuel9/facebook) 
+
+[Original Facebook Android App](https://github.com/orshmuel9/AndroidFacebook) 
+
+
 
 In this app, you can perform the same features available on the original Facebook platform, such as creating a user, adding a post, adding a comment to a post, making friends, and more.
 
@@ -40,5 +51,3 @@ Written and Developed by:
 [Eliya Rabia](https://github.com/EliyaRabia) 
 
 [Or Shmuel](https://github.com/orshmuel9)
-
-
